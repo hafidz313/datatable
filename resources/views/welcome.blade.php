@@ -16,7 +16,13 @@
                             <th>Item Code</th>
                             <th>Description 1</th>
                             <th>Description 1</th>
-                            <th>Get In time</th>
+                            <th>Volume</th>
+                            <th>Destination</th>
+                            <th>GTIN Numbers</th>
+                            <th>Pabrik</th>
+                            <th>Kemasan</th>
+                            
+
                         </tr>
                     </thead>
                     <tbody>
@@ -26,7 +32,12 @@
                             <td></td>
                             <td></td>
                             <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
                         </tr>
+                        
                     </tbody>
                 </table>
              </div>
